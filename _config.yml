@@ -284,6 +284,6 @@ comments:
     repo_id: "R_kgDOK-V0MA"
     category_name: "comments"
     category_id: "DIC_kwDOK-V0MM4CrhU4"
-    discussion_term: "pathname"
+    discussion_term: "title"
     reactions_enabled: "1"
     theme: "noborder_gray"
