@@ -277,6 +277,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+comments:
+  provider: giscus
+  giscus:
+    repo_id: R_kgDOK-V0MA
+    category_name: comments
+    category_id: DIC_kwDOK-V0MM4CrhU4
+    discussion_term: pathname
+    reactions_enabled: '1'
+    theme: noborder_gray
       read_time: true
       comments: # true
       share: true
