@@ -281,9 +281,11 @@ defaults:
 comments:
   provider: giscus
   giscus:
+    repo: "kimohy/kimohy.github.io"
     repo_id: "R_kgDOK-V0MA"
-    category_name: "comments"
+    category: "comments"
     category_id: "DIC_kwDOK-V0MM4CrhU4"
-    discussion_term: "title"
+    discussion_term: "url"
     reactions_enabled: "1"
     theme: "noborder_gray"
+    lang: "ko"
